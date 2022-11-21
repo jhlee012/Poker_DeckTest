@@ -1,0 +1,13 @@
+{
+  "name": "prob_test_ma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "400": "node index.js",
+    "rsf" : "node rsf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
